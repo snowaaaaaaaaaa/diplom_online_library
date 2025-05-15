@@ -8,4 +8,4 @@
 1. HTML та CSS
 2. JavaScript та PHP
 3. SQLite Studio
-## *тут буде посилання на сайт*
+## *https://ppcntukpi-gbb0amgtchcfg8fe.polandcentral-01.azurewebsites.net/index.html*
